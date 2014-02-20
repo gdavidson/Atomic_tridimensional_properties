@@ -1,0 +1,42 @@
+Equation du plan moyen entre les deux cycles: -1,00x+0,35y+-1,07z+122,79=0
+Angle entre les deux cycles:64,75°
+-Premier cycle aromatique:
+ATOM      5  C1  RH58X   1      38.240  15.959  83.547  1.00  0.00      X
+Distance par rapport au plan: 0,291
+ATOM      6  C2  RH58X   1      36.977  16.511  83.746  1.00  0.00      X
+Distance par rapport au plan: 1,114
+ATOM      7  C3  RH58X   1      36.844  17.770  84.319  1.00  0.00      X
+Distance par rapport au plan: 1,083
+ATOM      8  C4  RH58X   1      37.973  18.482  84.694  1.00  0.00      X
+Distance par rapport au plan: 0,231
+ATOM      9  C5  RH58X   1      39.231  17.931  84.505  1.00  0.00      X
+Distance par rapport au plan: -0,596
+ATOM     10  C6  RH58X   1      39.375  16.668  83.938  1.00  0.00      X
+Distance par rapport au plan: -0,578
+Equation du plan moyen: 0,05x+0,46y+-1,00z+74,37=0
+-Deuxième cycle aromatique:
+ATOM     11  C7  RH58X   1      42.183  16.496  80.274  1.00  0.00      X
+Distance par rapport au plan: 0,128
+ATOM     12  C8  RH58X   1      41.970  17.662  79.552  1.00  0.00      X
+Distance par rapport au plan: 1,051
+ATOM     13  C9  RH58X   1      42.453  18.873  80.031  1.00  0.00      X
+Distance par rapport au plan: 0,667
+ATOM     14  C10 RH58X   1      43.148  18.917  81.232  1.00  0.00      X
+Distance par rapport au plan: -0,639
+ATOM     15  C11 RH58X   1      43.370  17.749  81.952  1.00  0.00      X
+Distance par rapport au plan: -1,567
+ATOM     16  C12 RH58X   1      42.890  16.535  81.471  1.00  0.00      X
+Distance par rapport au plan: -1,185
+Equation du plan moyen: 1,73x+-0,29y+-1,00z+12,09=0
+-Angle CNNC:
+ATOM     19  C15 RH58X   1      42.276  13.318  83.401  1.00  0.00      X
+ATOM      4  N2  RH58X   1      42.092  14.649  82.766  1.00  0.00      X
+ATOM      3  N1  RH58X   1      40.974  15.212  82.846  1.00  0.00      X
+ATOM     17  C13 RH58X   1      40.732  16.121  83.832  1.00  0.00      X
+Angle=-95,00°
+-Angle CNCO:
+ATOM     19  C15 RH58X   1      42.276  13.318  83.401  1.00  0.00      X
+ATOM      4  N2  RH58X   1      42.092  14.649  82.766  1.00  0.00      X
+ATOM     18  C14 RH58X   1      43.170  15.290  82.195  1.00  0.00      X
+ATOM      2  O2  RH58X   1      44.317  14.868  82.300  1.00  0.00      X
+Angle=7,33°

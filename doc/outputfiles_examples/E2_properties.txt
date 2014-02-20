@@ -1,0 +1,97 @@
+-Cycle A:
+HETATM11369  C1  EST F 600      31.833  28.623  45.202  1.00 35.64           C
+Distance par rapport au plan: 0,002
+HETATM11370  C2  EST F 600      32.504  27.552  45.778  1.00 37.10           C
+Distance par rapport au plan: 0,001
+HETATM11371  C3  EST F 600      33.867  27.496  45.667  1.00 38.21           C
+Distance par rapport au plan: -0,004
+HETATM11373  C4  EST F 600      34.646  28.450  44.995  1.00 37.37           C
+Distance par rapport au plan: 0,003
+HETATM11374  C5  EST F 600      33.944  29.534  44.418  1.00 36.36           C
+Distance par rapport au plan: 0,000
+HETATM11379  C10 EST F 600      32.552  29.616  44.525  1.00 35.41           C
+Distance par rapport au plan: -0,002
+Equation du plan moyen: -1,00x+-5,49y+-9,05z+597,84=0
+-Cycle B:
+HETATM11374  C5  EST F 600      33.944  29.534  44.418  1.00 36.36           C
+Distance par rapport au plan: -0,277
+HETATM11375  C6  EST F 600      34.714  30.358  43.427  1.00 35.92           C
+Distance par rapport au plan: -0,307
+HETATM11376  C7  EST F 600      33.835  31.301  42.629  1.00 35.02           C
+Distance par rapport au plan: 0,194
+HETATM11377  C8  EST F 600      32.749  31.882  43.516  1.00 34.38           C
+Distance par rapport au plan: -0,273
+HETATM11378  C9  EST F 600      31.802  30.741  43.904  1.00 34.81           C
+Distance par rapport au plan: 0,441
+HETATM11379  C10 EST F 600      32.552  29.616  44.525  1.00 35.41           C
+Distance par rapport au plan: 0,164
+Equation du plan moyen: -1,00x+-1,14y+-1,66z+140,79=0
+-Cycle C:
+HETATM11377  C8  EST F 600      32.749  31.882  43.516  1.00 34.38           C
+Distance par rapport au plan: -0,459
+HETATM11378  C9  EST F 600      31.802  30.741  43.904  1.00 34.81           C
+Distance par rapport au plan: 0,132
+HETATM11380  C11 EST F 600      30.593  31.193  44.697  1.00 35.14           C
+Distance par rapport au plan: -0,120
+HETATM11381  C12 EST F 600      29.742  32.231  43.916  1.00 34.83           C
+Distance par rapport au plan: 0,469
+HETATM11382  C13 EST F 600      30.699  33.372  43.550  1.00 34.81           C
+Distance par rapport au plan: -0,145
+HETATM11383  C14 EST F 600      31.919  32.864  42.761  1.00 33.93           C
+Equation du plan moyen -1,00x+-0,88y+-1,71z+134,38=0
+-Cycle D:
+HETATM11369  C1  EST F 600      31.833  28.623  45.202  1.00 35.64           C
+Distance par rapport au plan: 0,871
+HETATM11370  C2  EST F 600      32.504  27.552  45.778  1.00 37.10           C
+Distance par rapport au plan: 0,722
+HETATM11371  C3  EST F 600      33.867  27.496  45.667  1.00 38.21           C
+Distance par rapport au plan: 0,115
+HETATM11373  C4  EST F 600      34.646  28.450  44.995  1.00 37.37           C
+Distance par rapport au plan: -0,367
+HETATM11374  C5  EST F 600      33.944  29.534  44.418  1.00 36.36           C
+Distance par rapport au plan: -0,208
+HETATM11379  C10 EST F 600      32.552  29.616  44.525  1.00 35.41           C
+Distance par rapport au plan: 0,403
+Equation du plan moyen: -1,00x+-1,04y+-1,26z+120,34=0
+-Plan global de tout les cycles:
+HETATM11369  C1  EST F 600      31.833  28.623  45.202  1.00 35.64           C
+Distance par rapport au plan: 1,187
+HETATM11370  C2  EST F 600      32.504  27.552  45.778  1.00 37.10           C
+Distance par rapport au plan: 1,027
+HETATM11371  C3  EST F 600      33.867  27.496  45.667  1.00 38.21           C
+Distance par rapport au plan: 0,081
+HETATM11372  O3  EST F 600      34.562  26.445  46.244  1.00 40.39           O
+Distance par rapport au plan: -0,107
+HETATM11373  C4  EST F 600      34.646  28.450  44.995  1.00 37.37           C
+Distance par rapport au plan: -0,745
+HETATM11374  C5  EST F 600      33.944  29.534  44.418  1.00 36.36           C
+Distance par rapport au plan: -0,569
+HETATM11375  C6  EST F 600      34.714  30.358  43.427  1.00 35.92           C
+Distance par rapport au plan: -1,193
+HETATM11376  C7  EST F 600      33.835  31.301  42.629  1.00 35.02           C
+Distance par rapport au plan: -0,722
+HETATM11377  C8  EST F 600      32.749  31.882  43.516  1.00 34.38           C
+Distance par rapport au plan: -0,569
+HETATM11378  C9  EST F 600      31.802  30.741  43.904  1.00 34.81           C
+Distance par rapport au plan: 0,594
+HETATM11379  C10 EST F 600      32.552  29.616  44.525  1.00 35.41           C
+Distance par rapport au plan: 0,387
+HETATM11380  C11 EST F 600      30.593  31.193  44.697  1.00 35.14           C
+Distance par rapport au plan: 0,945
+HETATM11381  C12 EST F 600      29.742  32.231  43.916  1.00 34.83           C
+Distance par rapport au plan: 1,338
+HETATM11382  C13 EST F 600      30.699  33.372  43.550  1.00 34.81           C
+Distance par rapport au plan: 0,158
+HETATM11383  C14 EST F 600      31.919  32.864  42.761  1.00 33.93           C
+Distance par rapport au plan: -0,173
+HETATM11384  C15 EST F 600      32.542  34.190  42.382  1.00 34.40           C
+Distance par rapport au plan: -1,195
+HETATM11385  C16 EST F 600      31.295  34.827  41.658  1.00 35.71           C
+Distance par rapport au plan: -0,315
+HETATM11386  C17 EST F 600      30.135  34.338  42.522  1.00 35.71           C
+Distance par rapport au plan: 0,472
+HETATM11387  O17 EST F 600      29.277  35.383  42.960  1.00 37.33           O
+Distance par rapport au plan: 0,384
+HETATM11388  C18 EST F 600      31.036  34.100  44.828  1.00 34.22           C
+Distance par rapport au plan: -0,987
+Equation du plan moyen: -1,40x+-1,00y+-0,74z+109,10=0
